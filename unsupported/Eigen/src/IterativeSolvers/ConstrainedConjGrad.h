@@ -31,6 +31,8 @@
 #ifndef EIGEN_CONSTRAINEDCG_H
 #define EIGEN_CONSTRAINEDCG_H
 
+#include <iostream>
+
 #include <Eigen/Core>
 
 namespace Eigen { 
